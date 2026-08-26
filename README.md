@@ -1,13 +1,12 @@
 # Hi, I'm Javlonbek 👋
 
-I'm a student exploring mathematics, computing, optimization,
-and real-world systems.
+I'm a student exploring mathematics, computing, optimization, and quantitative systems.
 
 ## Interests
 
 - Operations Research & Optimization
 - Computational Modeling
-- Technology & Systems
+- Computational Systems
 - Quantitative Finance
 
 ## Projects
